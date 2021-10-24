@@ -27,9 +27,9 @@ This is used to calculate the total number of projects for each row. An absolute
 	
 ![image](https://user-images.githubusercontent.com/92961267/138612751-521f1e91-f09a-49d4-a597-590f0d0f9647.png)
 
-The following image displays the percentage of each respected row within the following three columns: 'Percentage Successful', 'Percentage Failed', and 'Percentage Canceled'. 
+The following image displays the percentage of each respected row within the following three columns: 'Percentage Successful', and 'Percentage Failed'. The Percentage Canceled' is excluded as there are no canceled theater plays. 
 
-![image](https://user-images.githubusercontent.com/92961267/138586624-91deaede-ed18-4150-bc50-c3d8cf4bd0a8.png)
+![image](https://user-images.githubusercontent.com/92961267/138613144-9d843c28-07a8-4a1b-a723-4882ffa08bc7.png)
 
 The challenge of this portion was not so much of a challenge but rather a moment of tediously repeating and editing the code to execute the correct calculation. There were issues on a personal end of which the code was implemented incorrectly, had missing criteria, or automatic selection of the wrong cell.
 
