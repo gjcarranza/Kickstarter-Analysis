@@ -7,6 +7,8 @@ Analysis and Challenges:
 
 The analysis is conducted via various treatments on excel. Two of which promotes stronger evidence and gives better insight on possible tactics to utilize and ensure a successful campaign. The image shown below is produced by using the pivot table feature and organizing the correct values to be implemented within its corresponded elements. The challenge of this portion of analysis is figuring out which filters go where. By reviewing previous exercises from past work, one quickly realized the filter that was missing to produce the correct information to display.
 
+![image](https://user-images.githubusercontent.com/92961267/138613209-e16a469d-0889-4fca-bd5c-20a8fdbfd389.png)
+
 ![image](https://user-images.githubusercontent.com/92961267/138585166-6f1cbe67-326a-4124-bbb1-0567b6b866d6.png)
 
 Prior to visualing the image below, a table was created to encode such information.
